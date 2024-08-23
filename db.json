@@ -1,0 +1,71 @@
+{
+  "profesores": [
+    {
+      "nombre": "Javier",
+      "apellido": "Tarazona",
+      "materiar": [
+        {
+          "nombre": "Node.js"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "Angular"
+        }
+      ],
+      
+      "id": "8f3c"
+    },
+    {
+      "id": "75bb",
+      "nombre": "Monica",
+      "apellido": "Pineda",
+      "materiar": [
+        {
+          "nombre": "Node.js"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "Angular"
+        }
+      ],
+      "alumnos": [
+        {
+          "nombre": "Carlos",
+          "apellid": "Aper",
+          "promdio": 10
+        },
+        {
+          "nombre": "Dilan",
+          "apellid": "A",
+          "promdio": 10
+        },
+        {
+          "nombre": "Diana",
+          "apellid": "Aperrex",
+          "promdio": 10
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+        {
+          "nombre": "Carlos",
+          "apellid": "Aper",
+          "promdio": 3.4
+        },
+        {
+          "nombre": "Dilan",
+          "apellid": "A",
+          "promdio": 3
+        },
+        {
+          "nombre": "Diana",
+          "apellid": "Aperrex",
+          "promdio": 3.4
+        }
+      ]
+}
